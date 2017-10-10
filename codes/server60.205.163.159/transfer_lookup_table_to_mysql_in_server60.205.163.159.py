@@ -6,11 +6,11 @@ import pandas as pd
 
 try:
     conn = MySQLdb.connect(
-            host = '60.205.163.159',
+            host = ‘*’,
             port = 3306,
-            user = 'alas',
-            passwd = '6143',
-            db = 'sandbox_data',
+            user = ‘*’,
+            passwd = ‘*’,
+            db = ‘*’,
             charset = 'utf8',)
 except Exception, e:
     print e
