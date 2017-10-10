@@ -1,0 +1,3 @@
+3207247,2017-04-28,active_android,829
+3207247,2017-04-28,newuser_android,829
+3207247,2017-04-29,active_android,1437
